@@ -28,6 +28,3 @@ My experience with analyzing sentiment patterns in social media data has been bo
 As I continue my journey in data science, I look forward to applying these skills to tackle more complex problems and contribute to the success of Prodigy Infotech and its clients.
 
 Feel free to connect with me if you're interested in discussing data science, sentiment analysis, or social media analytics further!
-
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/5770942/2ded62e0-e00b-4595-a0a1-ffbb7edfefc4/Task-3-Prodigy-Infotech.ipynb
