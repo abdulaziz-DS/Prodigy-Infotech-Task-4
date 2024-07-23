@@ -9,11 +9,11 @@ To perform the analysis, I followed a structured approach that included data loa
 
 2. **Preprocessed the data** by checking for missing values and performing any necessary cleaning steps.
 
-3. **Analyzed the sentiment distribution** in the dataset, assuming it contained a 'sentiment' column.
+3. **Analyzed the sentiment distribution** in the dataset.
 
 4. **Visualized the sentiment distribution** using a bar plot created with `seaborn` and `matplotlib`.
 
-5. **Analyzed sentiment patterns by topic or brand**, assuming the dataset contained relevant columns, and visualized the results using a stacked bar plot.
+5. **Analyzed sentiment patterns by topic or brand** and visualized the results using a stacked bar plot.
 
 ## Deriving Valuable Insights
 
