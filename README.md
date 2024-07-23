@@ -1,5 +1,5 @@
 # Prodigy-Infotech-Task-4
-As a Data Science Intern at Prodigy Infotech, I had the opportunity to analyze and visualize sentiment patterns in social media data, specifically using a Twitter sentiment analysis dataset from Kaggle[1].
+As a Data Science Intern at Prodigy Infotech, I had the opportunity to analyze and visualize sentiment patterns in social media data, specifically using a Twitter sentiment analysis dataset from Kaggle.
 
 ## Analyzing Sentiment Patterns
 
